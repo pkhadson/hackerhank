@@ -11,3 +11,8 @@ Solution: https://github.com/pkhadson/hackerhank/blob/main/tree-level-order-trav
 ## Balanced Brackets
 Link: https://www.hackerrank.com/challenges/balanced-brackets/problem
 Solution: https://github.com/pkhadson/hackerhank/blob/main/balanced-brackets.js
+
+
+## Swap Nodes
+Link: https://www.hackerrank.com/challenges/swap-nodes-algo/problem
+Solution: https://github.com/pkhadson/hackerhank/blob/main/swap-nodes-algo.js
